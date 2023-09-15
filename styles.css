@@ -1,0 +1,38 @@
+
+body {
+    background-color: #f6faf4;
+    font-family: Arial, sans-serif;
+    padding: 20px; /* Añade un espacio alrededor del contenido del cuerpo del formulario */
+}
+
+
+.form-container {
+    background-color: #444864;
+    border: 1px solid #937070;
+    border-radius: 10px;
+    padding: 20px; /* Añade un espacio alrededor del formulario */
+    max-width: 600px; /* Limita el ancho del formulario */
+    margin: auto; /* Centra el formulario en la página */
+}
+
+
+h1 {
+    color: #9a6bb7;
+    margin: auto;
+}
+
+
+.form-control {
+    border: 1px solid #8f2171;
+    border-radius: .25rem;
+    margin-bottom: 10px; /* Añade espacio entre los campos de entrada */
+    width: 100%; /* Asegura que el campo de entrada ocupe el ancho completo del contenedor */
+}
+
+
+.btn-primary {
+    background-color: #44eb6e;
+    margin: auto;
+    border: double;
+    width: 50%; 
+}
